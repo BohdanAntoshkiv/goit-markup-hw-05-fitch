@@ -609,6 +609,7 @@ img {
 .project-item-text {
     padding: 20px 24px;
     border: 1px solid #eeeeee;
+    border-top: 0;
 }
 
 .project-list-header {
